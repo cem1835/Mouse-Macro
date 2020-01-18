@@ -1,0 +1,68 @@
+{
+  "Guns": [
+    {
+      "Name": "AK47",
+      "Value": 35,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 0,
+      "ToIncrease": 0,
+      "NumpadNo": 1
+    },
+    {
+      "Name": "AK47-3x",
+      "Value": 45,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 1,
+      "ToIncrease": 1,
+      "NumpadNo": 2
+    },
+    {
+      "Name": "M416",
+      "Value": 30,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 0,
+      "ToIncrease": 0,
+      "NumpadNo": 3
+    },
+    {
+      "Name": "M416-3x",
+      "Value": 45,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 1,
+      "ToIncrease": 1,
+      "NumpadNo": 4
+    },
+    {
+      "Name": "QBZ",
+      "Value": 35,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 0,
+      "ToIncrease": 0,
+      "NumpadNo": 5
+    },
+    {
+      "Name": "QBZ-3x",
+      "Value": 45,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 1,
+      "ToIncrease": 1,
+      "NumpadNo": 6
+    },
+    {
+      "Name": "BERYL",
+      "Value": 35,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 0,
+      "ToIncrease": 0,
+      "NumpadNo": 7
+    },
+    {
+      "Name": "BERYL-3x",
+      "Value": 45,
+      "IncreaseSpeed": 5,
+      "FromIncrease": 1,
+      "ToIncrease": 1,
+      "NumpadNo": 8
+    }
+  ]
+}
